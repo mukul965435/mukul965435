@@ -1,9 +1,9 @@
 # 💫 Hi 👋, I'm Mukul Kumar
 **A passionate Full Stack Developer || DevOps Engineer || Founder of HireSnap**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **mukulkumar142005@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
+- 🔭 **I’m currently working on:** Hiresnap
 - 🌱 **I’m currently learning:** Docker
 - 👯 **I’m looking to collaborate on:** HireSnap, AI that turns your resume into a job-winning machine
 - 🤔 **I’m looking for help with:** HireSnap
